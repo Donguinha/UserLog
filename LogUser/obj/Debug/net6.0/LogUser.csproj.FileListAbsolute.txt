@@ -1,0 +1,15 @@
+C:\code\LogUser\LogUser\bin\Debug\net6.0\LogUser.exe
+C:\code\LogUser\LogUser\bin\Debug\net6.0\LogUser.deps.json
+C:\code\LogUser\LogUser\bin\Debug\net6.0\LogUser.runtimeconfig.json
+C:\code\LogUser\LogUser\bin\Debug\net6.0\LogUser.dll
+C:\code\LogUser\LogUser\bin\Debug\net6.0\LogUser.pdb
+C:\code\LogUser\LogUser\obj\Debug\net6.0\LogUser.csproj.AssemblyReference.cache
+C:\code\LogUser\LogUser\obj\Debug\net6.0\LogUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\LogUser\LogUser\obj\Debug\net6.0\LogUser.AssemblyInfoInputs.cache
+C:\code\LogUser\LogUser\obj\Debug\net6.0\LogUser.AssemblyInfo.cs
+C:\code\LogUser\LogUser\obj\Debug\net6.0\LogUser.csproj.CoreCompileInputs.cache
+C:\code\LogUser\LogUser\obj\Debug\net6.0\LogUser.dll
+C:\code\LogUser\LogUser\obj\Debug\net6.0\refint\LogUser.dll
+C:\code\LogUser\LogUser\obj\Debug\net6.0\LogUser.pdb
+C:\code\LogUser\LogUser\obj\Debug\net6.0\LogUser.genruntimeconfig.cache
+C:\code\LogUser\LogUser\obj\Debug\net6.0\ref\LogUser.dll
